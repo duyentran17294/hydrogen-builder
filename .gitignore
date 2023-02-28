@@ -1,0 +1,11 @@
+__unconfig_vite.config.js
+node_modules
+.DS_Store
+dist
+dist-ssr
+*.local
+.yarn
+.yarnrc
+.yarnrc.yml
+yarn.lock
+.env
